@@ -1,10 +1,9 @@
-# Names: Malcolm and Nicholas
-# Date: May 1, 2018
-# Course: ICS2O1
+# Name: Malcolm
+# Date: May 10, 2019
 # Title: Frogger
 # Features:
-# - Hanson: lives, animation and background music
-# - Malcolm: levels (change of speed & number of obstacles), try again function
+# - lives, animation and background music
+# - levels (change of speed & number of obstacles), try again function
 # Known Issues:
 # - Program keeps running after all the homes are reached
 # - There are no added game elements(e.g. fly, diving turtle, crocodile log)
